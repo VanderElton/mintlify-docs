@@ -84,7 +84,7 @@
     }
   ],
   "feedback": {
-    "thumbsRating": "true"
+    "thumbsRating": true
   },
   "footerSocials": {
     "x": "https://x.com/mintlify",
